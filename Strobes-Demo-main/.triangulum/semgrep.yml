@@ -1,0 +1,11 @@
+triangulum:
+  metadata:
+    version: '1.4.7'
+  
+  options:
+    analyzer: semgrep
+    scan_data:
+      log: DEBUG
+    extension: local
+    extension_data:
+      path: .

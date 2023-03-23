@@ -1,0 +1,14 @@
+triangulum:
+  metadata:
+    version: '1.4.7'
+  
+  options:
+    analyzer: bandit
+    scan_data:
+      log: DEBUG
+    extension: git
+    extension_data:
+      url: https://github.com/anxolerd/dvpwa.git
+      
+#  rules:
+#    medium: 1
