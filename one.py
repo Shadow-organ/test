@@ -31,8 +31,7 @@ def gets50010():
 def gets50011():
     AWS_SECRET_KEY = 'SDyoOe0/so/muXBufjrQs9wDcFCsE50011/2DWbl'    
     
-eval(input())
-
+AWS_SECRET_KEY = 'SDyoOe0/so/muXBufjrQs9wDcFCsE20011/2DWbl'
 app.run(debug=True)
 app.run(debug=True)
 app.run(debug=True)
